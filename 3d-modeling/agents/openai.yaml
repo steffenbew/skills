@@ -1,0 +1,4 @@
+interface:
+  display_name: "3D Modeling"
+  short_description: "Model 3D objects with render-based iteration"
+  default_prompt: "Use $3d-modeling to build or refine this 3D object with fixed validation renders and iterative comparison."
